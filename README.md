@@ -5,9 +5,10 @@ Hey there! 👋 I'm Manisha, a recent Electronics and Communication Engineering 
 
 ## Skills 🛠️
 - **SQL Savvy:** Proficient in SQL for data querying and analysis.
-- **Python Proficiency:**![[python]](https://cdn.jsdelivr.net/npm/devicons/icons/python.svg) Skilled in Python for data manipulation and visualization.
+- **Python Proficiency:**Skilled in Python for data manipulation and visualization.
 - **HTML & CSS:** Basic knowledge for Web Development.
 - **Tools Familiarity:** Experience with Google Colab, Jupyter Notebook, MySQL, and BigQuery.
+  ![[python]](icons/Python-Dark.svg)
 
 ## Projects 🚀
 - **Americas Retail Brazil Analysis:** Conducted independent data analysis to unveil insights into customer behavior and e-commerce trends.
