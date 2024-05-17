@@ -9,8 +9,7 @@ Hey there! 👋 I'm Manisha, a recent Electronics and Communication Engineering 
 - **HTML & CSS:** Basic knowledge for Web Development.
 - **Tools Familiarity:** Experience with Google Colab, Jupyter Notebook, MySQL, and BigQuery.
   
-  ![[python]](https://github.com/tandpfun/skill-icons/blob/main/icons/python-dark.svg) class="devicon-small" Proficient in Python
-
+  
 ## Projects 🚀
 - **Americas Retail Brazil Analysis:** Conducted independent data analysis to unveil insights into customer behavior and e-commerce trends.
 
@@ -20,11 +19,5 @@ Ready to dive into the world of data-driven decision-making? Let's connect and e
 
 Together, let's embark on a journey to unlock the potential of data and drive impactful business decisions! 💫
 
-## Custom CSS
-
-.devicon-small {
-  width: 20px; /* Adjust width as desired */
-  height: 20px; /* Adjust height as desired */
-}
 
 
