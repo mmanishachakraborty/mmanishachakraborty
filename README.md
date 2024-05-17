@@ -8,7 +8,7 @@ Hey there! 👋 I'm Manisha, a recent Electronics and Communication Engineering 
 - **Python Proficiency:**Skilled in Python for data manipulation and visualization.
 - **HTML & CSS:** Basic knowledge for Web Development.
 - **Tools Familiarity:** Experience with Google Colab, Jupyter Notebook, MySQL, and BigQuery.
-  ![[python]](icons/Python-Dark.svg)
+  ![[python]](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
 
 ## Projects 🚀
 - **Americas Retail Brazil Analysis:** Conducted independent data analysis to unveil insights into customer behavior and e-commerce trends.
