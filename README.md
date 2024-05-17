@@ -1,7 +1,7 @@
 # 🚀 Manisha Chakraborty - Aspiring Data Analyst 📊
 
 ## About Me
-Hey there! 👋 I'm Manisha, a recent Electronics and Communication Engineering graduate with a burning passion for delving into the depths of data. I'm on a mission to kickstart my career in the dynamic field of Data Analysis, aiming to contribute my skills and enthusiasm to forward-thinking companies like Hoichoi, Netflix, or Amazon!
+Hey there!  I'm Manisha, a recent Electronics and Communication Engineering graduate with a burning passion for data analysis. I'm eager to kickstart my career in this dynamic field and contribute my skills and enthusiasm to innovative companies that leverage data to make impactful decisions.
 
 ## Skills 🛠️
 - **SQL Savvy:** Proficient in SQL for data querying and analysis.
